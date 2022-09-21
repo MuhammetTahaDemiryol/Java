@@ -1,4 +1,4 @@
-package Week2.Oop1;
+package Oop1;
 
 public class IndividualCustomer extends Customer{
 

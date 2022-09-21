@@ -1,4 +1,4 @@
-package Week2.Oop1;
+package Oop1;
 
 //PascalCase
 public class Product {
