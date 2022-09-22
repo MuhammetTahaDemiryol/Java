@@ -1,4 +1,4 @@
-package Oop1;
+package LiveLessonOop1;
 
 //PascalCase
 public class Product {

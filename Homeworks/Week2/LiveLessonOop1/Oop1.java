@@ -1,4 +1,4 @@
-package Oop1;
+package LiveLessonOop1;
 
 public class Oop1 {
     public static void main(String[] args) {
@@ -54,6 +54,7 @@ public class Oop1 {
 
     
         Customer[] customers = {individualCustomer, corporateCustomer};
+        System.out.println( customers[0].getPhone());
     }
 
 }

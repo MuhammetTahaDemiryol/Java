@@ -1,4 +1,4 @@
-package Oop1;
+package LiveLessonOop1;
 
 public class Customer {
 
