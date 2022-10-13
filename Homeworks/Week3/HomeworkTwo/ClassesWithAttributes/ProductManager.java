@@ -1,4 +1,4 @@
-package Homeworks.Week3.HomeworkTwo.ClassesWithAttributes;
+package Homeworks.Week3.HomeworkTwo.classesWithAttributes;
 
 public class ProductManager {
 
