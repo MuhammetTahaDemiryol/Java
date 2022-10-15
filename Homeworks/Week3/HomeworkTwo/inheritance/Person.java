@@ -1,4 +1,4 @@
-package Homeworks.Week3.HomeworkTwo.inheritance;
+package Homeworks.Week3.HomeworkTwo.Inheritance;
 
 public class Person {
 
